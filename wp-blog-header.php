@@ -12,14 +12,14 @@
  *
  * @var bool
  */
-define( 'WP_USE_THEMES', true );
-
-/** Loads the WordPress Environment and Template */
-require __DIR__ . '/wp-blog-header.php';
 
 if ( ! isset( $wp_did_header ) ) {
-
+	
 	$wp_did_header = true;
+	define( 'WP_USE_THEMES', true );
+	
+	/** Loads the WordPress Environment and Template */
+	require __DIR__ . '/wp-blog-header.php';
 
 	// Load the WordPress library.
 	require_once __DIR__ . '/wp-load.php';
