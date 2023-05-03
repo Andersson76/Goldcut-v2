@@ -1,0 +1,132 @@
+
+
+
+/* .footer-bs{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #000;
+    margin: 0;
+} */
+
+.footer-bs {
+    background: #000;
+
+}
+
+.aws-container .aws-search-form {
+    height: 37px!important;
+}
+
+.aws-search-btn {
+    background: #C0AB62!important;
+}
+
+.aws-search-btn_icon {
+    color: #fff!important;
+}
+
+.footer-brand, .footer-support, .footer-social, .footer-nav {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-top: 20px;
+}
+
+.footer-brand {
+    padding-top: 0!important;
+    justify-content: center;
+}
+
+ul#menu-footer-menu {
+    list-style: none;
+    padding-left: 0;
+}
+
+#menu-footer-menu a {
+    text-decoration: none!important;
+    color: #fff;
+}
+
+.footer-widget-contact a {
+    text-decoration: none!important;
+    color: #fff;
+    padding-top: 15px;
+}
+
+.footer-widget-contact h5, .footer-widget-social h5, .footer-widget-service h5 {
+    border-bottom: 2px solid #C0AB62;
+    width:85px;
+    padding-bottom: 15px; 
+}
+
+.footer-menu {
+    min-height: 180px;
+    width: 80%;
+    margin: auto!important;
+}
+
+.footer-content-bottom {
+    border-top: solid 1px #8080808a;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+.footer-content-bottom p {
+    margin: 0;
+    color: #C0AB62;
+}
+
+.content-404 h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+  }
+
+
+
+@media screen and (max-width: 770px) {
+    .footer-brand, .footer-support, .footer-social, .footer-nav {
+        align-items: center;
+    }
+
+    .menu-footer-menu-container, .footer-widget-service h4 {
+        text-align: center!important;
+    }
+    
+    .footer-widget-service {
+        text-align: center;
+    }
+  }
+
+@media screen and (max-width: 575px) {
+
+    .footer-brand {
+        display:none;
+    }
+}
+
+
+ @media screen and ( max-width: 480px ) {
+
+       .footer-brand, .footer-support, .footer-social, .footer-nav {
+           align-items: center;
+       }
+   
+   
+       .menu-footer-menu-container, .footer-widget-service h4 {
+           text-align: center!important;
+       }
+   
+       .footer-widget-service {
+           text-align: center;
+       }
+       .footer-brand {
+           display:none;
+       }
+   
+   }
+   
+  

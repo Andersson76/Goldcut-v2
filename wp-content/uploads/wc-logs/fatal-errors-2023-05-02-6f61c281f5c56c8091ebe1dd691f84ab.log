@@ -1,0 +1,5 @@
+2023-05-02T19:49:15+00:00 CRITICAL Uncaught Error: Call to undefined function get_cacsp_options() in /var/www/html/wp-content/plugins/cookies-and-content-security-policy/js/cookies-and-content-security-policy-error-message.php:14
+Stack trace:
+#0 {main}
+  thrown i /var/www/html/wp-content/plugins/cookies-and-content-security-policy/js/cookies-and-content-security-policy-error-message.php på rad 14
+

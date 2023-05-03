@@ -1,0 +1,83 @@
+
+.header-gc {
+    background:black;
+    height: 160px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.menu-header {
+    height: 130px;;
+}
+
+.mobile-menu {
+    height: 130px;;
+}
+
+.top-bar {
+    background: #C0AB62;
+}
+
+.brand-usp {
+    height: 30px;
+}
+
+.brand-usp p {
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    margin: 0px;
+    margin-top: 3px;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+}
+
+
+.nav-menu-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul#menu-top-menu {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    gap: 30px;
+    margin: 0!important;
+}
+
+#menu-top-menu a {
+    text-decoration: none!important;
+    text-transform: uppercase;
+    color: black;
+}
+
+#menu-top-menu a:hover {
+    text-decoration: underline!important;
+    text-underline-offset: 7px!important;
+}
+
+
+/* Sub-menu toggle */
+
+.sub-menu {
+    display: none;
+    position: absolute;
+    z-index: 9999;
+}
+
+.sub-menu {
+    display: none;
+    position: absolute;
+    z-index: 9999;
+    padding-left: 0;
+    padding-top: 5px;
+}
+

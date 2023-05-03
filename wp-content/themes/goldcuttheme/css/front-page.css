@@ -1,0 +1,39 @@
+section.contact-form {
+    background: black;
+}
+
+.card-img {
+    z-index: 0;
+    height: 250px;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  
+.text-over-img {
+  z-index: 1;
+  margin-top: -140px;
+  margin-left: 50px;
+}
+
+.services-section {
+    height: 350px;
+}
+
+.button-startpage {
+  padding: 20px 0;
+}
+
+img.img-startpage {
+  height: 320px;
+  object-fit: cover;
+}
+
+
+.h1-home {
+    color: #ebe9eb!important;
+  font-weight: bolder;
+  margin-bottom: 1.5rem;
+  text-shadow: 0 1px 0 black;
+}
+
+
