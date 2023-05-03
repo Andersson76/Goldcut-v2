@@ -1,0 +1,1010 @@
+# Translation of Plugins - Responsive Menu &#8211; Create Mobile-Friendly Menu - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Responsive Menu &#8211; Create Mobile-Friendly Menu - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-28 11:11:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Responsive Menu &#8211; Create Mobile-Friendly Menu - Stable (latest release)\n"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:237
+msgid "You can not delete themes !"
+msgstr "Du kan inte ta bort teman!"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:373
+#: v4.0.0/inc/classes/class-theme-manager.php:1111
+msgid "You can not upload themes !"
+msgstr "Du kan inte ladda upp teman!"
+
+#: v4.0.0/inc/classes/class-editor-manager.php:157
+#: v4.0.0/inc/classes/class-theme-manager.php:496
+msgid "You can not edit menu !"
+msgstr "Du kan inte redigera meny!"
+
+#: v4.0.0/inc/classes/class-editor-manager.php:118
+msgid "You can not update menu !"
+msgstr "Du kan inte uppdatera meny!"
+
+#: v4.0.0/inc/classes/class-admin.php:571
+msgid "You can not import menu !"
+msgstr "Du kan inte importera meny!"
+
+#: v4.0.0/inc/classes/class-admin.php:538
+msgid "You can not export menu !"
+msgstr "Du kan inte exportera meny!"
+
+#: v4.0.0/inc/classes/class-admin.php:117
+msgid "You can not create menu !"
+msgstr "Du kan inte skapa memy!"
+
+#: v4.0.0/inc/classes/class-admin.php:103
+msgid "Saved"
+msgstr "Sparad"
+
+#: v4.0.0/inc/classes/class-admin.php:81
+msgid "You can't edit global settings!"
+msgstr "Du kan inte redigera globala inställningar!"
+
+#: v4.0.0/templates/rmp-wizards.php:179
+msgid "Just a moment"
+msgstr "Ett ögonblick"
+
+#: v4.0.0/templates/rmp-wizards.php:73 v4.0.0/templates/rmp-wizards.php:81
+#: v4.0.0/templates/rmp-wizards.php:89 v4.0.0/templates/rmp-wizards.php:97
+#: v4.0.0/templates/rmp-wizards.php:105
+msgid "Upgrade now to use"
+msgstr "Uppgradera nu för att använda"
+
+#: v4.0.0/inc/classes/class-plugin.php:107
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: v4.0.0/templates/rmp-roadmap.php:60
+msgid "Dismiss this notice."
+msgstr "Avfärda denna notis."
+
+#: v4.0.0/templates/rmp-roadmap.php:59
+msgid "Ideas"
+msgstr "Idéer"
+
+#: v4.0.0/templates/rmp-roadmap.php:57
+msgid "Updates"
+msgstr "Uppdateringar"
+
+#: v4.0.0/templates/rmp-roadmap.php:52
+msgid "What's Next"
+msgstr "Vad kommer härnäst?"
+
+#: review-banner-class.php:97
+msgid "I already did!"
+msgstr "Jag har redan gjort det!"
+
+#: v4.0.0/templates/rmp-settings.php:61
+msgid "Active Dark Mode"
+msgstr "Aktivera mörkt läge"
+
+#: v4.0.0/inc/classes/class-plugin.php:124
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:669
+#: v4.0.0/inc/classes/class-theme-manager.php:916
+#: v4.0.0/inc/classes/class-theme-manager.php:965
+#: v4.0.0/inc/classes/class-theme-manager.php:1014
+#: v4.0.0/inc/classes/class-theme-manager.php:1046
+msgid "View Demo"
+msgstr "Visa demo"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:678
+msgid "Purchase"
+msgstr "Köp"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:592
+msgid "Use"
+msgstr "Använd"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:572
+msgid "You have no template !"
+msgstr "Du har ingen mall!"
+
+#: v4.0.0/templates/rmp-themes.php:92
+msgid "Delete"
+msgstr "Ta bort"
+
+#: v4.0.0/templates/rmp-themes.php:62
+msgid "You have no theme here"
+msgstr "Du har inget tema här"
+
+#: v4.0.0/templates/admin-notices.php:22
+msgid "Upgrade To Pro"
+msgstr "Uppgradera till Pro"
+
+#: v4.0.0/templates/new-menu-wizard.php:68 v4.0.0/templates/rmp-wizards.php:155
+msgid "Saved Templates"
+msgstr "Sparade mallar"
+
+#: v4.0.0/templates/new-menu-wizard.php:67 v4.0.0/templates/rmp-wizards.php:154
+msgid "Marketplace"
+msgstr "Marknadsplats"
+
+#: v4.0.0/templates/new-menu-wizard.php:66 v4.0.0/templates/rmp-wizards.php:153
+msgid "Installed Themes"
+msgstr "Installerade teman"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:693
+msgid "No theme available !"
+msgstr "Inget tema tillgängligt!"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:676
+msgid "Download"
+msgstr "Ladda ner"
+
+#: v4.0.0/templates/rmp-themes.php:31
+msgid "Uploading zip file..."
+msgstr "Laddar upp zip-fil …"
+
+#: v4.0.0/templates/admin-notices.php:15
+msgid "Welcome to Responsive Menu"
+msgstr "Välkommen till Responsive Menu"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:1138
+msgid "Theme is uploaded successfully"
+msgstr "Tema laddades upp utan problem"
+
+#: v4.0.0/templates/rmp-editor.php:161
+msgid "Theme Details"
+msgstr "Detaljer för tema"
+
+#: v4.0.0/templates/new-menu-wizard.php:202
+msgid "Select devices where you want to show this menu"
+msgstr "Välj enheter där du vill visa denna meny"
+
+#: v4.0.0/templates/rmp-editor.php:2993
+msgid "Just a moment, the theme is applying..."
+msgstr "Ett ögonblick, temat tillämpas …"
+
+#: v4.0.0/templates/new-menu-wizard.php:266
+msgid "Select specific pages where you want to show this menu."
+msgstr "Välj specifika sidor där du vill visa denna meny."
+
+#: v4.0.0/templates/new-menu-wizard.php:134
+msgid "Please enter a descriptive name to identify this menu later"
+msgstr "Ange ett beskrivande namn för att identifiera denna meny senare"
+
+#: v4.0.0/templates/new-menu-wizard.php:92
+msgid "Just a moment <br/> Getting data from the server.."
+msgstr "Ett ögonblick <br/> Hämtar data från servern …"
+
+#. translators: %s: HTML tag
+#: v4.0.0/inc/classes/elementor/widgets/class-rmp-widget.php:131
+msgid "There are no menus in your site."
+msgstr "Det finns inga menyer på din webbplats."
+
+#: v4.0.0/templates/rmp-roadmap.php:55
+msgid "Roadmap"
+msgstr "Vägkarta"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:25
+msgid "Content"
+msgstr "Innehåll"
+
+#: v4.0.0/templates/new-menu-wizard.php:170
+msgid "Notice : You don't have any existing WordPress menus, please "
+msgstr "Obs: du har inga befintliga WordPress-menyer ännu, "
+
+#: v4.0.0/inc/classes/class-control-manager.php:1073
+msgid "Mobile"
+msgstr "Mobil"
+
+#: v4.0.0/inc/classes/class-control-manager.php:326
+msgid " (PRO)"
+msgstr " (PRO)"
+
+#: v4.0.0/inc/classes/class-editor-manager.php:132
+msgid "Menu not found"
+msgstr "Meny hittades inte"
+
+#: v4.0.0/inc/classes/class-editor-manager.php:128
+msgid "Success"
+msgstr "Lyckades"
+
+#: v4.0.0/inc/classes/class-admin.php:558
+msgid "Please add file !"
+msgstr "Lägg till fil!"
+
+#: v4.0.0/inc/classes/class-admin.php:534
+#: v4.0.0/inc/classes/class-admin.php:567
+msgid "Select menu !"
+msgstr "Välj meny!"
+
+#: v4.0.0/inc/classes/class-admin.php:487
+msgid "Not Found"
+msgstr "Hittades inte"
+
+#: v4.0.0/inc/classes/class-admin.php:485
+msgid "Update Menu"
+msgstr "Uppdatera meny"
+
+#: v4.0.0/inc/classes/class-admin.php:484
+msgid "Edit Menu"
+msgstr "Redigera meny"
+
+#: v4.0.0/inc/classes/class-admin.php:482
+msgid "Add New Menu"
+msgstr "Lägg till ny meny"
+
+#: v4.0.0/inc/classes/class-admin.php:481
+msgid "View Menu"
+msgstr "Visa meny"
+
+#: v4.0.0/inc/classes/class-admin.php:480
+msgid "Menus"
+msgstr "Menyer"
+
+#: v4.0.0/inc/classes/class-admin.php:479
+msgid "Parent Menu"
+msgstr "Överordnad meny"
+
+#: v4.0.0/inc/classes/class-admin.php:408
+msgid "Date"
+msgstr "Datum"
+
+#: v4.0.0/inc/classes/class-admin.php:407
+msgid "Actions"
+msgstr "Åtgärder"
+
+#: v4.0.0/inc/classes/class-admin.php:406
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: v4.0.0/inc/classes/class-admin.php:388
+#: v4.0.0/inc/classes/class-admin.php:447
+msgid "Customize"
+msgstr "Anpassa"
+
+#: v4.0.0/inc/classes/class-editor.php:138
+msgid "Change theme"
+msgstr "Byt tema"
+
+#: v4.0.0/inc/classes/class-editor.php:118
+msgid "Update"
+msgstr "Uppdatera"
+
+#: v4.0.0/templates/rmp-editor.php:2944
+msgid "Show Menu "
+msgstr "Visa meny "
+
+#: v4.0.0/templates/rmp-editor.php:2927
+msgid "Hide Menu"
+msgstr "Dölj meny"
+
+#: v4.0.0/templates/rmp-editor.php:2791
+msgid "Type"
+msgstr "Typ"
+
+#: v4.0.0/templates/rmp-editor.php:2805
+msgid "Direction"
+msgstr "Riktning"
+
+#: v4.0.0/templates/rmp-editor.php:2744
+msgid "Container Background"
+msgstr "Behållarens bakgrund"
+
+#: v4.0.0/templates/rmp-editor.php:2717
+msgid "Auto Height"
+msgstr "Automatisk höjd"
+
+#: v4.0.0/templates/rmp-editor.php:2658 v4.0.0/templates/rmp-editor.php:2681
+#: v4.0.0/templates/rmp-editor.php:2701
+msgid "Enter value"
+msgstr "Ange värde"
+
+#: v4.0.0/templates/rmp-editor.php:2642
+msgid "Appearance"
+msgstr "Utseende"
+
+#: v4.0.0/templates/rmp-editor.php:2483
+msgid "Text Position"
+msgstr "Textposition"
+
+#: v4.0.0/templates/rmp-editor.php:2443
+msgid "Button Text"
+msgstr "Knapptext"
+
+#: v4.0.0/templates/rmp-editor.php:2205
+msgid "Button Type"
+msgstr "Knapptyp"
+
+#: v4.0.0/templates/rmp-editor.php:966 v4.0.0/templates/rmp-editor.php:1255
+msgid "Border"
+msgstr "Ram"
+
+#: v4.0.0/templates/menu-elements/title.php:171
+#: v4.0.0/templates/rmp-editor.php:807 v4.0.0/templates/rmp-editor.php:1372
+msgid "Font Weight"
+msgstr "Typsnittsvikt"
+
+#: v4.0.0/templates/menu-elements/title.php:183
+#: v4.0.0/templates/rmp-editor.php:795 v4.0.0/templates/rmp-editor.php:1358
+#: v4.0.0/templates/rmp-editor.php:2500
+msgid "Font Family"
+msgstr "Typsnittsfamilj"
+
+#: v4.0.0/templates/rmp-editor.php:764 v4.0.0/templates/rmp-editor.php:1331
+msgid "Typography"
+msgstr "Typografi"
+
+#: v4.0.0/templates/rmp-editor.php:683
+msgid "Sub Menu"
+msgstr "Undermeny"
+
+#: v4.0.0/templates/rmp-editor.php:607
+msgid "Menu Background"
+msgstr "Menybakgrund"
+
+#: v4.0.0/templates/rmp-editor.php:498
+msgid "here"
+msgstr "här"
+
+#: v4.0.0/templates/rmp-editor.php:489
+msgid "Name"
+msgstr "Namn"
+
+#: v4.0.0/templates/new-menu-wizard.php:51 v4.0.0/templates/rmp-editor.php:479
+#: v4.0.0/templates/rmp-editor.php:582
+msgid "Menu Settings"
+msgstr "Menyinställningar"
+
+#: v4.0.0/templates/rmp-editor.php:463
+msgid "Advanced Settings"
+msgstr "Avancerade inställningar"
+
+#: v4.0.0/templates/rmp-editor.php:452
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#: v4.0.0/templates/rmp-editor.php:424
+msgid "Container"
+msgstr "Behållare"
+
+#: v4.0.0/templates/rmp-editor.php:209
+msgid "Save As Theme"
+msgstr "Spara som tema"
+
+#: v4.0.0/templates/rmp-editor.php:199
+msgid "Change Theme"
+msgstr "Byt tema"
+
+#: v4.0.0/templates/rmp-editor.php:98 v4.0.0/templates/rmp-editor.php:125
+msgid "Pro"
+msgstr "Pro"
+
+#: v4.0.0/templates/rmp-editor.php:84
+msgid "Mobile Menu"
+msgstr "Mobilmeny"
+
+#: v4.0.0/templates/rmp-themes.php:47
+msgid "Select Files"
+msgstr "Välj filer"
+
+#: v4.0.0/templates/rmp-themes.php:22
+msgid "Upload theme"
+msgstr "Ladda upp tema"
+
+#: v4.0.0/inc/classes/class-admin.php:308
+#: v4.0.0/inc/classes/class-admin.php:309 v4.0.0/templates/rmp-editor.php:138
+#: v4.0.0/templates/rmp-themes.php:18
+msgid "Themes"
+msgstr "Teman"
+
+#: v4.0.0/templates/new-menu-wizard.php:291
+msgid "Create Menu"
+msgstr "Skapa meny"
+
+#: v4.0.0/templates/new-menu-wizard.php:287
+msgid "Next"
+msgstr "Nästa"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:909
+#: v4.0.0/inc/classes/class-theme-manager.php:913
+#: v4.0.0/inc/classes/class-theme-manager.php:916
+#: v4.0.0/inc/classes/class-theme-manager.php:1013
+msgid "Default Theme"
+msgstr "Standardtema"
+
+#: v4.0.0/inc/classes/elementor/widgets/class-rmp-widget.php:98
+msgid "Menu Setting"
+msgstr "Menyinställningar"
+
+#: v4.0.0/inc/classes/class-admin.php:483
+#: v4.0.0/templates/new-menu-wizard.php:41
+msgid "Create New Menu"
+msgstr "Skapa ny meny"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:587
+#: v4.0.0/inc/classes/class-theme-manager.php:970
+#: v4.0.0/inc/classes/class-theme-manager.php:1055
+msgid "Apply"
+msgstr "Tillämpa"
+
+#: v4.0.0/templates/rmp-settings.php:50
+msgid "Hide"
+msgstr "Dölj"
+
+#: v4.0.0/templates/rmp-settings.php:49
+msgid "Adjust"
+msgstr "Justera"
+
+#: v4.0.0/templates/rmp-settings.php:48
+msgid "None"
+msgstr "Ingen"
+
+#: v4.0.0/templates/rmp-settings.php:145 v4.0.0/templates/rmp-settings.php:167
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: v4.0.0/templates/rmp-settings.php:35
+msgid "Style"
+msgstr "Stil"
+
+#: v4.0.0/templates/menu-elements/title.php:245
+msgid "Enter height"
+msgstr "Ange höjd"
+
+#: v4.0.0/templates/menu-elements/title.php:239
+msgid "Image Height"
+msgstr "Bildhöjd"
+
+#: v4.0.0/templates/menu-elements/title.php:225
+msgid "Enter width"
+msgstr "Ange bredd"
+
+#: v4.0.0/templates/menu-elements/title.php:219
+msgid "Image Width"
+msgstr "Bildbredd"
+
+#: v4.0.0/templates/menu-elements/title.php:116
+#: v4.0.0/templates/rmp-editor.php:921
+msgid "Background"
+msgstr "Bakgrund"
+
+#: v4.0.0/templates/menu-elements/title.php:55
+msgid "Link Target"
+msgstr "Länkmål"
+
+#: v4.0.0/templates/menu-elements/title.php:42
+msgid "Link "
+msgstr "Länk "
+
+#: v4.0.0/inc/classes/class-editor.php:131
+msgid "Save as theme"
+msgstr "Spara som tema"
+
+#: v4.0.0/templates/rmp-editor.php:2219
+msgid "Hamburger"
+msgstr "Hamburgare"
+
+#: v4.0.0/templates/rmp-editor.php:1954
+msgid "Button Style"
+msgstr "Knappstil"
+
+#: v4.0.0/templates/rmp-editor.php:1430
+msgid "Hover Color"
+msgstr "Hovringsfärg"
+
+#: v4.0.0/templates/rmp-editor.php:1183
+msgid "Child Level 4"
+msgstr "Undernivå 4"
+
+#: v4.0.0/templates/rmp-editor.php:1164
+msgid "Child Level 3"
+msgstr "Undernivå 3"
+
+#: v4.0.0/templates/rmp-editor.php:1142
+msgid "Child Level 2"
+msgstr "Undernivå 2"
+
+#: v4.0.0/templates/rmp-editor.php:1123
+msgid "Child Level 1"
+msgstr "Undernivå 1"
+
+#: v4.0.0/templates/rmp-editor.php:435
+msgid "Toggle button"
+msgstr "Slå på/av knapp"
+
+#: v4.0.0/templates/new-menu-wizard.php:273 v4.0.0/templates/rmp-editor.php:546
+msgid "Use as shortcode"
+msgstr "Använd som kortkod"
+
+#: v4.0.0/templates/new-menu-wizard.php:272 v4.0.0/templates/rmp-editor.php:545
+msgid "Show on all pages "
+msgstr "Visa på alla sidor "
+
+#: v4.0.0/inc/classes/class-control-manager.php:1104
+#: v4.0.0/templates/new-menu-wizard.php:251
+msgid "Desktop"
+msgstr "Stationär dator"
+
+#: v4.0.0/inc/classes/class-control-manager.php:1089
+#: v4.0.0/templates/new-menu-wizard.php:235
+msgid "Tablet"
+msgstr "Läsplatta"
+
+#: v4.0.0/templates/new-menu-wizard.php:48
+msgid "Select Themes"
+msgstr "Välj teman"
+
+#: v4.0.0/templates/rmp-wizards.php:144
+msgid "Use Theme"
+msgstr "Använd tema"
+
+#: v4.0.0/templates/rmp-wizards.php:131
+msgid "Save Theme"
+msgstr "Spara tema"
+
+#: v4.0.0/templates/rmp-wizards.php:115
+msgid "Select"
+msgstr "Välj"
+
+#: v4.0.0/templates/rmp-wizards.php:114
+msgid "Clear"
+msgstr "Rensa"
+
+#: v4.0.0/inc/classes/class-control-manager.php:1180
+#: v4.0.0/templates/rmp-wizards.php:74 v4.0.0/templates/rmp-wizards.php:82
+#: v4.0.0/templates/rmp-wizards.php:90 v4.0.0/templates/rmp-wizards.php:98
+#: v4.0.0/templates/rmp-wizards.php:106
+msgid "Upgrade to Pro"
+msgstr "Uppgradera till Pro"
+
+#: v4.0.0/templates/rmp-wizards.php:60
+msgid "GlyphIcon"
+msgstr "GlyphIcon"
+
+#: v4.0.0/templates/rmp-wizards.php:33
+msgid "Dashicons"
+msgstr "Dashicons"
+
+#: v4.0.0/templates/rmp-wizards.php:26
+msgid "Select Icon"
+msgstr "Välj ikon"
+
+#: v4.0.0/templates/rmp-settings.php:197
+msgid "Import Menu"
+msgstr "Importera meny"
+
+#: v4.0.0/templates/rmp-settings.php:176
+msgid "Export Menu"
+msgstr "Exportera meny"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:257
+msgid "Theme deleted"
+msgstr "Tema borttaget"
+
+#: v4.0.0/inc/classes/class-admin.php:488
+msgid "Not found in Trash"
+msgstr "Hittades inte i papperskorgen!"
+
+#: v4.0.0/inc/classes/class-admin.php:234
+#: v4.0.0/inc/classes/class-admin.php:272
+#: v4.0.0/inc/classes/class-admin.php:457
+msgid "Shortcode deactivated"
+msgstr "Kortkod inaktiverad"
+
+#: v4.0.0/inc/classes/class-admin.php:200
+msgid "Unable to create new Menu !"
+msgstr "Kan inte skapa ny meny!"
+
+#: v4.0.0/inc/classes/class-admin.php:127
+msgid "Select menu to use !"
+msgstr "Välj meny att använda!"
+
+#: v4.0.0/templates/rmp-editor.php:2504
+msgid "Enter font"
+msgstr "Ange typsnitt"
+
+#: v4.0.0/templates/rmp-editor.php:2456 v4.0.0/templates/rmp-editor.php:2471
+msgid "Enter text"
+msgstr "Ange text"
+
+#: v4.0.0/templates/rmp-editor.php:2578
+msgid "Toggle menu on click"
+msgstr "Slå på/av meny vid klick"
+
+#: v4.0.0/inc/helpers/default-options.php:147
+msgid "Minus (PRO)"
+msgstr "Minus (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:135
+msgid "3DY (PRO)"
+msgstr "3DY (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:133
+msgid "3DX (PRO)"
+msgstr "3DX (PRO)"
+
+#: v4.0.0/templates/rmp-editor.php:2866
+msgid "Hide Menu On"
+msgstr "Dölj meny på"
+
+#: v4.0.0/templates/rmp-editor.php:2871
+msgid "Page Clicks"
+msgstr "Sidklick"
+
+#: v4.0.0/templates/rmp-editor.php:2880
+msgid "Link Clicks"
+msgstr "Länkklick"
+
+#: v4.0.0/templates/rmp-editor.php:2589
+msgid "Toggle menu on hover"
+msgstr "Slå på/av meny vid hovring"
+
+#: v4.0.0/templates/new-menu-wizard.php:274
+msgid "Exclude some pages (Pro) "
+msgstr "Exkludera några sidor (Pro) "
+
+#: v4.0.0/templates/new-menu-wizard.php:275
+msgid "Include only pages (Pro)"
+msgstr "Inkludera endast sidor (Pro)"
+
+#: v4.0.0/templates/menu-elements/search.php:28
+msgid "Placeholder Text"
+msgstr "Platshållartext"
+
+#: v4.0.0/templates/menu-elements/title.php:29
+msgid "Title Text "
+msgstr "Rubriktext "
+
+#: v4.0.0/templates/menu-elements/search.php:75
+#: v4.0.0/templates/rmp-editor.php:2044
+msgid "Border Radius"
+msgstr "Ramradie"
+
+#: v4.0.0/inc/classes/class-editor-manager.php:72
+#: v4.0.0/inc/classes/class-editor-manager.php:153
+#: v4.0.0/inc/classes/class-theme-manager.php:491
+msgid "Menu ID missing !"
+msgstr "Meny-ID saknas!"
+
+#: v4.0.0/inc/classes/class-admin.php:562
+msgid "Please add json file !"
+msgstr "Lägg till json-fil!"
+
+#: v4.0.0/inc/classes/class-admin.php:122
+msgid "Enter the Menu name !"
+msgstr "Ange menynamnet!"
+
+#: v4.0.0/templates/rmp-editor.php:1983
+msgid "Container Height"
+msgstr "Behållarens höjd"
+
+#: v4.0.0/templates/rmp-editor.php:1963
+msgid "Container Width"
+msgstr "Behållarens bredd"
+
+#: v4.0.0/templates/rmp-editor.php:1898
+msgid "Use Accordion"
+msgstr "Använd dragspel"
+
+#: v4.0.0/templates/rmp-editor.php:1879 v4.0.0/templates/rmp-editor.php:2859
+msgid "Behaviour"
+msgstr "Beteende"
+
+#: v4.0.0/templates/rmp-editor.php:372
+msgid "Scroll Speed"
+msgstr "Rullhastighet"
+
+#: v4.0.0/templates/new-menu-wizard.php:181 v4.0.0/templates/rmp-editor.php:557
+msgid "Hide Theme Menu"
+msgstr "Dölj tema-meny"
+
+#: v4.0.0/templates/rmp-editor.php:548
+msgid "Include only pages (PRO)"
+msgstr "Inkludera endast sidor (PRO)"
+
+#: v4.0.0/templates/rmp-editor.php:547
+msgid "Exclude some pages (PRO) "
+msgstr "Exkludera några sidor (PRO) "
+
+#: v4.0.0/templates/rmp-editor.php:498
+msgid "Appearance > Menus or"
+msgstr "Utseende > Menyer eller"
+
+#: v4.0.0/templates/rmp-editor.php:344
+msgid "Disable Background Scrolling"
+msgstr "Inaktivera bakgrundsrullning"
+
+#: v4.0.0/templates/menu-elements/title.php:205
+msgid " Text Hover"
+msgstr " texthovring"
+
+#: v4.0.0/templates/menu-elements/title.php:125
+#: v4.0.0/templates/rmp-editor.php:933 v4.0.0/templates/rmp-editor.php:2022
+msgid "Background Hover"
+msgstr "Bakgrundshovring"
+
+#: v4.0.0/inc/classes/class-editor.php:87
+msgid "Close the editor and go back to the previous page"
+msgstr "Stäng redigeraren och gå tillbaka till föregående sida"
+
+#: v4.0.0/templates/rmp-editor.php:2889
+msgid "Page Scroll"
+msgstr "Sidrull"
+
+#: v4.0.0/inc/helpers/default-options.php:157
+msgid "Vortex (PRO)"
+msgstr "Vortex (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:156
+msgid "Squeeze (PRO)"
+msgstr "Squeeze (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:155
+msgid "Stand Reverse (PRO)"
+msgstr "Stand Reverse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:154
+msgid "Stand (PRO)"
+msgstr "Stand (PRO)"
+
+#: v4.0.0/templates/rmp-editor.php:2077
+msgid "Button Position"
+msgstr "Knappens position"
+
+#: v4.0.0/templates/rmp-editor.php:1591 v4.0.0/templates/rmp-editor.php:2425
+msgid "Active Image"
+msgstr "Aktiv bild"
+
+#: v4.0.0/inc/helpers/default-options.php:131
+msgid "Off"
+msgstr "Av"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:37
+#: v4.0.0/templates/menu-elements/search.php:44
+#: v4.0.0/templates/menu-elements/title.php:104
+#: v4.0.0/templates/rmp-editor.php:637 v4.0.0/templates/rmp-editor.php:741
+#: v4.0.0/templates/rmp-editor.php:2731
+msgid "Padding"
+msgstr "Padding"
+
+#: v4.0.0/templates/rmp-editor.php:880 v4.0.0/templates/rmp-editor.php:1006
+#: v4.0.0/templates/rmp-editor.php:1221 v4.0.0/templates/rmp-editor.php:1294
+#: v4.0.0/templates/rmp-editor.php:1693 v4.0.0/templates/rmp-editor.php:1768
+#: v4.0.0/templates/rmp-editor.php:1823
+msgid "Hover"
+msgstr "Hovra"
+
+#: v4.0.0/templates/rmp-editor.php:870 v4.0.0/templates/rmp-editor.php:996
+#: v4.0.0/templates/rmp-editor.php:1211 v4.0.0/templates/rmp-editor.php:1284
+#: v4.0.0/templates/rmp-editor.php:1683 v4.0.0/templates/rmp-editor.php:1758
+#: v4.0.0/templates/rmp-editor.php:1813
+msgid "Normal"
+msgstr "Normal"
+
+#: v4.0.0/templates/rmp-editor.php:1657 v4.0.0/templates/rmp-editor.php:2104
+msgid "Position"
+msgstr "Position"
+
+#. Author of the plugin
+msgid "ExpressTech"
+msgstr "ExpressTech"
+
+#. Plugin URI of the plugin
+msgid "https://expresstech.io"
+msgstr "https://expresstech.io"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:20
+#: v4.0.0/templates/menu-elements/search.php:22
+#: v4.0.0/templates/menu-elements/title.php:22
+msgid "Styles"
+msgstr "Stilmallar"
+
+#: v4.0.0/templates/rmp-editor.php:973 v4.0.0/templates/rmp-editor.php:1261
+#: v4.0.0/templates/rmp-editor.php:1738
+msgid "Border Width"
+msgstr "Rambredd"
+
+#: v4.0.0/templates/rmp-editor.php:2770
+msgid "Background Image"
+msgstr "Bakgrundsbild"
+
+#: v4.0.0/templates/menu-elements/search.php:115
+msgid "Placeholder Color"
+msgstr "Platshållarens färg"
+
+#: v4.0.0/templates/rmp-settings.php:189
+msgid "Export"
+msgstr "Exportera"
+
+#: v4.0.0/templates/new-menu-wizard.php:69
+#: v4.0.0/templates/rmp-settings.php:216 v4.0.0/templates/rmp-wizards.php:156
+msgid "Import"
+msgstr "Importera"
+
+#: v4.0.0/templates/rmp-settings.php:36
+msgid "Import/Export"
+msgstr "Importera/exportera"
+
+#: v4.0.0/templates/menu-elements/title.php:196
+msgid " Text Color"
+msgstr " textfärg"
+
+#: v4.0.0/templates/rmp-editor.php:281
+msgid "Colours"
+msgstr "Färger"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:19
+#: v4.0.0/templates/menu-elements/search.php:21
+#: v4.0.0/templates/menu-elements/title.php:21
+msgid "Contents"
+msgstr "Innehåll"
+
+#: v4.0.0/templates/rmp-settings.php:154
+msgid "Custom CSS"
+msgstr "Anpassad CSS"
+
+#: v4.0.0/templates/menu-elements/search.php:124
+#: v4.0.0/templates/rmp-editor.php:1731
+msgid "Border Color"
+msgstr "Ramfärg"
+
+#: v4.0.0/templates/rmp-editor.php:298
+msgid "Sub Menus"
+msgstr "Undermenyer"
+
+#: v4.0.0/templates/rmp-editor.php:2329
+msgid "Line Color"
+msgstr "Linjefärg"
+
+#: v4.0.0/templates/rmp-editor.php:2059
+msgid "Transparent Background"
+msgstr "Transparent bakgrund"
+
+#: v4.0.0/templates/rmp-editor.php:1611 v4.0.0/templates/rmp-editor.php:2650
+msgid "Width"
+msgstr "Bredd"
+
+#: v4.0.0/templates/menu-elements/search.php:56
+#: v4.0.0/templates/rmp-editor.php:1633
+msgid "Height"
+msgstr "Höjd"
+
+#: v4.0.0/templates/rmp-settings.php:34
+msgid "Advance"
+msgstr "Avancerat"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:68
+#: v4.0.0/templates/menu-elements/title.php:157
+#: v4.0.0/templates/rmp-editor.php:819 v4.0.0/templates/rmp-editor.php:1400
+msgid "Text Alignment"
+msgstr "Textjustering"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:49
+#: v4.0.0/templates/menu-elements/title.php:138
+#: v4.0.0/templates/rmp-editor.php:771 v4.0.0/templates/rmp-editor.php:1337
+#: v4.0.0/templates/rmp-editor.php:2514
+msgid "Font Size"
+msgstr "Textstorlek"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:79
+#: v4.0.0/templates/menu-elements/search.php:94
+#: v4.0.0/templates/rmp-editor.php:862 v4.0.0/templates/rmp-editor.php:1413
+#: v4.0.0/templates/rmp-editor.php:1674 v4.0.0/templates/rmp-editor.php:2556
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: v4.0.0/templates/menu-elements/search.php:103
+#: v4.0.0/templates/rmp-editor.php:914 v4.0.0/templates/rmp-editor.php:1205
+#: v4.0.0/templates/rmp-editor.php:1804 v4.0.0/templates/rmp-editor.php:2009
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: v4.0.0/templates/rmp-editor.php:1863 v4.0.0/templates/rmp-editor.php:2245
+#: v4.0.0/templates/rmp-editor.php:2784
+msgid "Animation"
+msgstr "Animering"
+
+#: v4.0.0/templates/rmp-editor.php:1419
+msgid "Color"
+msgstr "Färg"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:3
+msgid "Additional Content"
+msgstr "Ytterligare innehåll"
+
+#: v4.0.0/templates/menu-elements/title.php:73
+#: v4.0.0/templates/rmp-editor.php:1494 v4.0.0/templates/rmp-editor.php:1578
+#: v4.0.0/templates/rmp-editor.php:2229 v4.0.0/templates/rmp-editor.php:2410
+msgid "Image"
+msgstr "Bild"
+
+#: v4.0.0/templates/rmp-editor.php:1484 v4.0.0/templates/rmp-editor.php:2452
+msgid "Text"
+msgstr "Text"
+
+#: v4.0.0/templates/menu-elements/title.php:3
+msgid "Title"
+msgstr "Rubrik"
+
+#: v4.0.0/templates/rmp-editor.php:2695
+msgid "Minimum Width"
+msgstr "Minsta bredd"
+
+#: v4.0.0/templates/rmp-editor.php:254
+msgid "Breakpoint"
+msgstr "Brytpunkt"
+
+#: v4.0.0/templates/menu-elements/menu.php:3
+msgid "Menu"
+msgstr "Meny"
+
+#: v4.0.0/templates/rmp-editor.php:1489 v4.0.0/templates/rmp-editor.php:2224
+msgid "Icon"
+msgstr "Ikon"
+
+#: v4.0.0/templates/rmp-editor.php:1920
+msgid "Auto Expand Current Sub Menus"
+msgstr "Expandera automatiskt nuvarande undermenyer"
+
+#: v4.0.0/templates/rmp-editor.php:1909
+msgid "Auto Expand All Sub Menus"
+msgstr "Expandera automatiskt alla undermenyer"
+
+#: v4.0.0/templates/rmp-editor.php:719 v4.0.0/templates/rmp-editor.php:1075
+#: v4.0.0/templates/rmp-editor.php:2303 v4.0.0/templates/rmp-editor.php:2534
+msgid "Line Height"
+msgstr "Radhöjd"
+
+#: v4.0.0/templates/rmp-editor.php:2281
+msgid "Line Width"
+msgstr "Radbredd"
+
+#: v4.0.0/templates/rmp-editor.php:2163
+msgid "Distance from Top"
+msgstr "Distans från toppen"
+
+#: v4.0.0/templates/rmp-editor.php:2141
+msgid "Distance from Side"
+msgstr "Distans från sidan"
+
+#: v4.0.0/templates/rmp-editor.php:389
+msgid "Page Overlay"
+msgstr "Sidöverlägg"
+
+#: v4.0.0/templates/rmp-editor.php:2675
+msgid "Maximum Width"
+msgstr "Maximal bredd"
+
+#: v4.0.0/inc/classes/class-admin.php:299
+#: v4.0.0/inc/classes/class-admin.php:300 v4.0.0/templates/rmp-editor.php:150
+msgid "Settings"
+msgstr "Inställningar"
+
+#: v4.0.0/inc/classes/class-rmp-menu.php:293
+#: v4.0.0/templates/menu-elements/search.php:4
+msgid "Search"
+msgstr "Sök"
+
+#. Author URI of the plugin
+msgid "https://responsive.menu"
+msgstr "https://responsive.menu"
+
+#. Plugin Name of the plugin
+#: v4.0.0/inc/classes/class-admin.php:476
+#: v4.0.0/inc/classes/class-admin.php:477
+#: v4.0.0/inc/classes/class-admin.php:478
+#: v4.0.0/inc/classes/class-admin.php:492
+#: v4.0.0/inc/classes/class-admin.php:493
+#: v4.0.0/inc/classes/elementor/widgets/class-rmp-widget.php:53
+#: v4.0.0/inc/classes/elementor/widgets/class-rmp-widget.php:115
+#: v4.0.0/templates/rmp-settings.php:29
+msgid "Responsive Menu"
+msgstr "Responsive Menu"
+
+#. Description of the plugin
+msgid "Highly Customisable Responsive Menu Plugin for WordPress"
+msgstr "Synnerligen anpassningsbart tillägg för responsiv meny i WordPress"
